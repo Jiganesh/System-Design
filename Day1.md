@@ -1,4 +1,4 @@
-### Scaling
+## 💻 Scaling 
 
 #### Horizontal Scaling 
 Horizontal Scaling means scaling by adding more machines to your pool of resources. 
