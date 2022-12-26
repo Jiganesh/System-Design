@@ -1,2 +1,8 @@
 # System_Design
-Learnings about system design 
+
+
+Basics
+- [X] Scaling
+    - [X] Horizontal Scaling
+    - [X] Vertical Scaling
+
