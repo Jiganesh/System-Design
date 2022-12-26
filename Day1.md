@@ -33,16 +33,25 @@ IP Address `                Mac Address
 IPV4 has 32 bits and IPV6 has 128 bits.
 
 Private IP Address
+
 Public IP Address
 
 Classful IPV4 Addressing
+
 Network ID and Host ID in IP Addresses
 
+---
 class A - N H H H
+
 class B - N N H H
+
 class C - N N N H
+
 class D - Multicast
+
 class E - Experimental
+
+---
 
 
 ![Classful Ip Addressing](images/classful_ip_addressing.png)
