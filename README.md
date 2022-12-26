@@ -1,5 +1,4 @@
-# System_Design
-
+# System Design Index
 
 Basics
 - [X] Scaling
