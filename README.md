@@ -5,3 +5,4 @@ Basics
     - [X] Horizontal Scaling
     - [X] Vertical Scaling
 
+- [X] API, Authorization, Authentication 
