@@ -1,12 +1,10 @@
 
-
-
 ### 🍕 PIZZA SHOP SCENERIO
 
 Suppose you have a pizza shop and you want to scale what will you do:
 
 1. Hire a chef, Pay him more (Vertical Scaling : optimise precision and increase through put with the same resources)
-2. Preparing Ingredients for cooking and stuff before hand (preprossing (e.g cron job) : prepare before hand during non pick hours)
+2. Preparing Ingredients for cooking and stuff before hand during non pick hours (preprocessing - e.g cron job)
 3. Now what If the chef get sick or on leave, (Single Point of Failure) - Keep Backups 
 4. Hire More Chef (Master-Slave Architecture) (Horizontal Scaling: get more resources)
 5. Different Chef have different speciality  - how can you route orders leveraging their strengths - (Micro Service Architecture)
