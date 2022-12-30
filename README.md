@@ -20,5 +20,5 @@
 
 ####  📚 Good Resources for System Design 
 
-[Gaurav Sen System Design Fundamentals](https://www.youtube.com/watch?v=xpDnVSmNFX0&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
-[Byte Byte Go System Design Fundamentals](https://www.youtube.com/watch?v=5TRFpFBccQM&list=PLCRMIe5FDPse7NNmQP5UziLjXjkHW3gqA)
+- [Gaurav Sen System Design Fundamentals](https://www.youtube.com/watch?v=xpDnVSmNFX0&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
+- [Byte Byte Go System Design Fundamentals](https://www.youtube.com/watch?v=5TRFpFBccQM&list=PLCRMIe5FDPse7NNmQP5UziLjXjkHW3gqA)
