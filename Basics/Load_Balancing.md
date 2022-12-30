@@ -2,7 +2,7 @@ Load Balancing :
 Load balancing is the method of distributing network traffic equally across a pool of resources that support an application. 
 Modern applications must process millions of users simultaneously and return the correct text, videos, images, and other data to each user in a fast and reliable manner.
 
-![LoadBalancer](/images/LoadBalancer.png)
+![LoadBalancer](/Images/LoadBalancer.png)
 
 
 Load Balancing Algorithms

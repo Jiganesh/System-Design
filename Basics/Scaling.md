@@ -48,7 +48,7 @@ class E - Experimental
 ```
 
 
-![Classful Ip Addressing](images/classful_ip_addressing.png)
+![Classful Ip Addressing](Images/classful_ip_addressing.png)
 
 
 
