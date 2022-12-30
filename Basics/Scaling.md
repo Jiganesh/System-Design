@@ -9,7 +9,7 @@ Most Common Way of Scaling has less downtime and is more cost effective.
 #### Vertical Scaling
 Vertical Scaling means scaling by adding more power to an existing machine. 
 
-![scaling1.png](images/scaling1.png)
+![scaling1.png](Images/scaling1.png)
 
 
 
