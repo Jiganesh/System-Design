@@ -13,5 +13,4 @@ Basics
 - [X] Load Balancers
     - [X]  Load Balancing Algorithms
 
-    
-
+- [X] Consistent Hashing 
