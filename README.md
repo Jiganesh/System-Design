@@ -14,6 +14,8 @@
     - [X]  Load Balancing Algorithms
 
 - [X] Consistent Hashing 
+- [X] How to store Passwords in Database ?
+
 
 
 ---
