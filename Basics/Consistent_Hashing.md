@@ -12,6 +12,10 @@ Skwed Load on Server
 ### Remedy -
 Virtual Server Nodes
 
+### Advantages - 
+Because of Consistant Hashing there is load balancing and no duplication (watch guarav sen message queue video for more explanation)
+
+
 
 Gaurav Sen : https://www.youtube.com/watch?v=zaRkONvyGr8&t=3s
 More Visual Explanation : https://www.youtube.com/watch?v=UF9Iqmg94tk
