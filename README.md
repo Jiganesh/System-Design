@@ -3,6 +3,7 @@
 
 #### Basics
 
+- [X] HTTP
 - [X] How to Start with Distributed Systems ?
 
 - [X] Scaling

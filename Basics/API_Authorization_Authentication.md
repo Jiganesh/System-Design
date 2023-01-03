@@ -16,12 +16,26 @@ DELETE - delete
 Status Codes
 ```
 1XX - Informational
+    Request received / processing
 2XX - Success
+    Successful received, understood, accepted
 3XX - Redirect
+    Further action needs to be taken in order to complete the request
 4XX - Client Error
+    Request contains bad syntax or cannot be fulfilled
 5XX - Server Error
+    Server failed to fulfill an apparently valid request
 ```
 
+200 - OK
+201 - OK Created
+301 - Moved to new URL
+304 - Not Modified
+400 - Bad Request
+401 - Unauthorized
+403 - Forbidden
+404 - Not Found
+500 - Internal Server Error
 
 API Key, Client Code, Client Secret, OAuth Client Id
 
