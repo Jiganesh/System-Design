@@ -17,6 +17,8 @@
 - [X] Consistent Hashing 
 - [X] How to store Passwords in Database ?
 - [X] CAP Theorem
+- [ ] SOLID PRINCIPLES
+    - [ ] Single Responsiblity Principle
 
 
 
