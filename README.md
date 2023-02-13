@@ -16,8 +16,9 @@
 
 - [X] Consistent Hashing 
 - [X] How to store Passwords in Database ?
-
-
+- [X] CAP Theorem
+- [X] SSL TLS HTTPS
+- [X] SOLIDS Principle
 
 ---
 
