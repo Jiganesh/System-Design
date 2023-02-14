@@ -19,6 +19,9 @@
 - [X] CAP Theorem
 - [X] SSL TLS HTTPS
 - [X] SOLIDS Principle
+    - [X] Single Responsiblity Principle
+
+
 
 ---
 
