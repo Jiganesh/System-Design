@@ -21,6 +21,8 @@
 - [X] SOLIDS Principle
     - [X] Single Responsiblity Principle
 
+- [X] Secure Socket Shell
+
 
 
 ---
