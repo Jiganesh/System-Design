@@ -41,7 +41,7 @@ Call Stack is also know as
 
 ### Hoisting in Javascript
 
-JavaScript Hoisting refers to the process whereby the interpreter appears to move the declaration of functions, variables or classes to the top of their scope, prior to execution of the code. 
+Hoisting is Javascripts default behaviour, where JavaScript Hoisting refers to the process whereby the interpreter appears to move the declaration of functions, variables or classes to the top of their scope, prior to execution of the code. 
 
 // function 
 function getName (){
