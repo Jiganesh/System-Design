@@ -22,6 +22,14 @@
     - [X] Single Responsiblity Principle
 
 - [X] Secure Socket Shell
+- [X] Stateful and Stateless Applications
+- [X] Websockets
+- [X] Sharding
+    - [X] Resharding
+    - [X] Celebrity Problem
+    - [X] Join and Denormalizations
+- [X] Messaging Queues
+- [X] Logging, Metrics, Automation
 
 
 
